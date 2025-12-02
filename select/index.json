@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "テトリス",
+  "base_artist": "柊マグネタイト",
+  "createdAt": "2025-12-02T13:02:20.207384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "テトリス",
+      "artist": "柊マグネタイト",
+      "has_synced": true,
+      "path": "select/01_テトリス_柊マグネタイト.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "テトリス(Tetoris)",
+      "artist": "柊マグネタイト",
+      "has_synced": true,
+      "path": "select/02_テトリス(Tetoris)_柊マグネタイト.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "テトリス",
+      "artist": "柊マグネタイト",
+      "has_synced": false,
+      "path": "select/pl_01_テトリス_柊マグネタイト.txt"
+    }
+  ]
+}
